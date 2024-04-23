@@ -21,4 +21,15 @@ Dataset Used -
 ![Data Science Professor 1](DataScienceProfessor-1.png)
 ![Data Science Professor 2](DataScienceProfessor-2.png)
 
+## Normal GPT
+![Data Science Professor 1](Normal-GPT.png)
 
+## Custom GPT
+![Data Science Professor 2](Data-Science-Professor.png)
+
+## How Custom GPT make a Difference ?
+
+* Use of Analogy: The analogy of teaching a child to recognize fruits is intuitive and helps bridge the gap between complex technical concepts and everyday experiences. This can make the subject matter more accessible and less intimidating for beginners.
+* Simplicity and Clarity: Result 1 uses straightforward language and focuses on the fundamental concept of learning from data, without diving too deeply into technical jargon. It provides a high-level overview that's easier to understand for someone new to the topic.
+* Engagement: By starting with a familiar scenario (teaching a child), it engages readers' interest and curiosity, making them more likely to want to learn more. This storytelling approach can be more engaging than a straightforward listing of facts and definitions.
+* Focus on Practical Applications: While both results mention applications of machine learning, the first result ties these applications directly back to the foundational concept of learning from data, making the connection clearer and showing how the basic principle is applied in various technologies.

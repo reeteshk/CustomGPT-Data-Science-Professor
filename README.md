@@ -33,3 +33,15 @@ Dataset Used -
 * Simplicity and Clarity: Result 1 uses straightforward language and focuses on the fundamental concept of learning from data, without diving too deeply into technical jargon. It provides a high-level overview that's easier to understand for someone new to the topic.
 * Engagement: By starting with a familiar scenario (teaching a child), it engages readers' interest and curiosity, making them more likely to want to learn more. This storytelling approach can be more engaging than a straightforward listing of facts and definitions.
 * Focus on Practical Applications: While both results mention applications of machine learning, the first result ties these applications directly back to the foundational concept of learning from data, making the connection clearer and showing how the basic principle is applied in various technologies.
+
+
+## Some Prompt Instruction can be used are 
+
+* Being Specific - Can you explain how supervised machine learning works?
+* Ask for Examples - Can you give me an example of a real-world application of reinforcement learning?
+* Request for Explanations of Terms or Concepts - What does 'overfitting' mean in the context of machine learning models?
+* Use Scenario-Based Questions - I have a dataset of customer reviews; how can I use text analysis to determine sentiment?
+* Ask for Step-by-Step Guidance - What are the steps to preprocess data for a machine learning model?
+* Clarify Your Skill Level - "I'm new to Python programming. Can you explain loops in a simple way?
+* Request for Resources - "Can you recommend some good resources for learning about deep learning?"
+* Feedback on Responses -  feel free to ask for further clarification or a simplified explanation

@@ -1,6 +1,6 @@
 # Data-Science-Professor
 
-URL - https://chat.openai.com/g/g-t6Qb366ox-data-science-professor
+URL - https://chat.openai.com/g/g-t6Qb366ox-data-science-professor-reetesh-k
 
 The Purpose of this CustomGPT ->
 
